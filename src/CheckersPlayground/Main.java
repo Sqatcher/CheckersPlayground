@@ -581,7 +581,5 @@ public class Main {
             }
             currentPlayer = enemyPlayer;
         }
-        System.out.println("GAME OVER");
-
     }
 }
